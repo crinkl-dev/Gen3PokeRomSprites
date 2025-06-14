@@ -1,2 +1,3 @@
 # CODEOWNER required for pull request approval
 * @crinkl-dev
+/.github/CODEOWNERS @crink-dev
